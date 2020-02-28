@@ -6,7 +6,7 @@
         font-size: 1.1em;
 }
 .description{
-        margin: 10px 5px;
+        margin: 20px 15px;
         color: rgba(0, 0, 0, 0.7);
 }
 
@@ -25,10 +25,10 @@
         background-color: CADETBLUE;
         color: white !important;
 
-        font-size: 30px;
+        font-size: 100px;
         line-height:27px;
         font-weight: bold;
-        text-align: center;
+        text-align: right;
         text-decoration: none;
         text-transform: uppercase;
         white-space: nowrap
